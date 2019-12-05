@@ -36,6 +36,18 @@
     :numbered:
 
     grove_module_sensor/sensorModule_led_button
+    grove_module_sensor/sensorModule_angle_wled
+    grove_module_sensor/sensorModule_temperature
+    grove_module_sensor/sensorModule_airvibration
+    grove_module_sensor/sensorModule_lightness
+    grove_module_sensor/sensorModule_irdistance
+    grove_module_sensor/sensorModule_soilmoisture
+    grove_module_sensor/sensorModule_raindrop
+    grove_module_sensor/sensorModule_tranceline
+    grove_module_sensor/sensorModule_firesense
+    grove_module_sensor/sensorModule_lightsense
+    grove_module_sensor/sensorModule_tempsense
+    grove_module_sensor/sensorModule_tiltsense
 
 
 
