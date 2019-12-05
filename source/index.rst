@@ -1,20 +1,41 @@
-.. Scratch for BlueBox4 documentation master file, created by
-   sphinx-quickstart on Fri Nov 22 16:08:05 2019.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. Scratch for BlueBox4 documentation master file, created by HiiBot team
 
-Welcome to Scratch for BlueBox4's documentation!
-===============================================
+.. _topics-index:
+
+=============================================
+欢迎使用Scratch4BlueBox4帮助文档!
+=============================================
 
 .. toctree::
    :maxdepth: 1
    :caption: API and Usage
+    
 
 .. toctree::
-    :caption: hellowork
+    :caption: 快速向导
     :numbered:
 
-    hello/helloworld
+    quick_guide/bb4_intro
+    quick_guide/cppBlockly_intro
+    quick_guide/download_local
+    quick_guide/download_online
+    quick_guide/works_share
+
+.. toctree::
+    :caption: 使用板载资源
+    :numbered:
+
+    onboard_resource/builtin_led
+    onboard_resource/builtin_button
+    onboard_resource/tftlcd
+    onboard_resource/accelationsensor
+    onboard_resource/batterystate
+
+.. toctree::
+    :caption: Grove接口的传感器模块
+    :numbered:
+
+    grove_module_sensor/sensorModule_led_button
 
 
 
