@@ -27,6 +27,7 @@
 
     onboard_resource/builtin_led
     onboard_resource/builtin_button
+    onboard_resource/touchpads
     onboard_resource/tftlcd
     onboard_resource/accelationsensor
     onboard_resource/batterystate
@@ -48,6 +49,17 @@
     grove_module_sensor/sensorModule_lightsense
     grove_module_sensor/sensorModule_tempsense
     grove_module_sensor/sensorModule_tiltsense
+    grove_module_sensor/sensorModule_mercoid
+    grove_module_sensor/sensorModule_magnetapproach
+    grove_module_sensor/sensorModule_hallsensor
+    grove_module_sensor/sensorModule_smokesense
+    grove_module_sensor/sensorModule_ultrasonicdistance
+    grove_module_sensor/sensorModule_gesturesense
+    grove_module_sensor/sensorModule_colorsense
+    grove_module_sensor/sensorModule_digitallightsense
+    grove_module_sensor/sensorModule_digitaltemphumdity
+    grove_module_sensor/sensorModule_digitalirtemp
+    grove_module_sensor/sensorModule_9dofposesense
 
 
 
